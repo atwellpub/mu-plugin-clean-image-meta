@@ -3,7 +3,8 @@
  * Plugin Name: Clean Image Metadata
  * Description: Automatically removes all metadata (EXIF, IPTC, XMP, etc.) from uploaded images.
  * Version: 1.0.0
- * Author: atwellpub
+ * Author: Hudson Atwell
+ * Support: https://gbti.network
  * Contributors: Hudson Atwell, Claude 3.7 Thinking
  * Text Domain: clean-image-meta
  */
