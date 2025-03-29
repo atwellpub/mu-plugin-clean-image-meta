@@ -1,3 +1,6 @@
+This is now being maintained at:
+https://github.com/gbti-network/mu-plugin-clean-image-meta
+
 # Clean Image Metadata
 
 A WordPress must-use plugin that automatically removes all metadata (EXIF, IPTC, XMP, etc.) from uploaded images.
